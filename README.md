@@ -4,6 +4,6 @@
 - Route Groups
 - Dynamic Routes
 
-#### Day 04 - NovaStart - simple blogs project
+### NovaStart - simple blogs project
 
 - LiveLink [here](https://simple-blogs-six.vercel.app/)
