@@ -1,9 +1,6 @@
-### Day 02 - Exploring NextJS
+### Day 03 - Exploring NextJS
 
-- learned Error handling
-- Route Groups
-- Dynamic Routes
+- learned about project organization
+- Parallel Routes (understand deeply how parallel routes works, and when we should use it)
+- 
 
-### NovaStart - simple blogs project
-
-- LiveLink [here](https://simple-blogs-six.vercel.app/)
