@@ -6,3 +6,7 @@
 - Explored Redirecting, Headers, Cookies, and Caching
     - GET request by default use caching,
     - But in dynamic it's not, also in headers
+
+- Middleware explored and Not Found page
+
+- Internationalization explored
