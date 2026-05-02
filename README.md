@@ -6,3 +6,4 @@
       - Explored when to use "use client" or server for server action
       - Fetch data on server, Parallel and sequential data fetching explored from docs
 
+## Tutorial Project - EcoVista
