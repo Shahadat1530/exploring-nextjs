@@ -1,7 +1,5 @@
 const Default = () => {
-    return (
-        <div>default page</div>
-    )
-}
+    return <div>Default Page</div>;
+};
 
-export default Default
+export default Default;
