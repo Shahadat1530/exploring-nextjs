@@ -7,3 +7,6 @@
       - Fetch data on server, Parallel and sequential data fetching explored from docs
 
 ## Tutorial Project - EcoVista
+- using current location to show weather info
+- switching location to get data which is hard coded data
+- handling not found location
